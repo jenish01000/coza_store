@@ -137,4 +137,4 @@ This project is licensed under the [MIT License](https://github.com/sibtc/django
 ## Contact
 For any queries, please contact:
 
-**Author:** Radadiya Rajesh  
+**Author:** jenish mandanka 
